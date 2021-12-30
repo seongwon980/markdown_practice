@@ -43,3 +43,7 @@ First Header | Second Header
 -------------| -------------
 Content 1 | Content 2
 COntent 3 | Content 4
+
+
+# 체크 박스
+- [ ] 체크 박스
