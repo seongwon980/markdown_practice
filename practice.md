@@ -47,3 +47,9 @@ COntent 3 | Content 4
 
 # 체크 박스
 - [X] 체크 박스
+
+
+# 인라인 코드 실습
+문단 중간에 코드를 넣을 수 있습니다.  
+예를 들어서 `System.out.println("Hello!!!);`  
+이렇게 됩니다.
