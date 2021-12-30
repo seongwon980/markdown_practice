@@ -36,3 +36,10 @@ _이 텍스트는 기울어져 있습니다._
 __이 텍스트도 굵게 표시됩니다.__
 
 *이렇게 **합쳐서** 쓸 수도 있습니다.*
+
+
+# 표 실습
+First Header | Second Header
+-------------| -------------
+Content 1 | Content 2
+COntent 3 | Content 4
